@@ -1,2 +1,2 @@
-# Rotundacube.io
-The source code for [dylancronin.com](https://dylancronin.com).
+# dylancronin.com
+The source for [dylancronin.com](https://dylancronin.com).
